@@ -18,10 +18,10 @@ This project showcases an **interactive particle animation** built using `threej
 
 ```
 .
-â”œâ”€â”€ index.html        # Main HTML file
-â”œâ”€â”€ style.css         # CSS file for styling
-â”œâ”€â”€ script.js         # JavaScript file for animations and interactivity
-â””â”€â”€ README.md         # Documentation
+index.html        # Main HTML file
+style.css         # CSS file for styling
+script.js         # JavaScript file for animations and interactivity
+README.md         # Documentation
 ```
 
 ---
