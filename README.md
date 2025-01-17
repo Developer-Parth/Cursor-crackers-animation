@@ -17,7 +17,6 @@ This project showcases an **interactive particle animation** built using `threej
 ## Project Structure
 
 ```
-.
 index.html        # Main HTML file
 style.css         # CSS file for styling
 script.js         # JavaScript file for animations and interactivity
