@@ -7,10 +7,10 @@ This project showcases an **interactive particle animation** built using `threej
 
 ## Features
 
-- ðŸŽ¨ **Dynamic Particle Animation**: Interactive particles follow the cursor and change properties dynamically on click.
-- ðŸ“± **Responsive Design**: Works seamlessly across all devices and screen sizes.
-- ðŸ”— **Social Media Links**: Easy access to Telegram and YouTube with beautifully styled links.
-- ðŸ–Œï¸ **Customizable**: Fully customizable colors, animations, and styles.
+- **Dynamic Particle Animation**: Interactive particles follow the cursor and change properties dynamically on click.
+- **Responsive Design**: Works seamlessly across all devices and screen sizes.
+- **Social Media Links**: Easy access to Telegram and YouTube with beautifully styled links.
+- **Customizable**: Fully customizable colors, animations, and styles.
 
 ---
 
